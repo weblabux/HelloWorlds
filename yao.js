@@ -1,3 +1,3 @@
 function yao() {
-	return "Yao says hello";
+	return "Yao says hello.";
 }
