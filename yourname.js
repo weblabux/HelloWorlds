@@ -1,4 +1,4 @@
-yourname()
-{
-return "Gloria say hello"
-}
+function Gloria()
+ {
+    return "Gloria says hello";
+ }
