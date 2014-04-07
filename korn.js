@@ -1,5 +1,5 @@
 // JavaScript Document
-function robert() {
+function korn() {
 	// return "Korn says hello."
 	return "Korn says hello team :)";
 }
