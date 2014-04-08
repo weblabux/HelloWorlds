@@ -3,8 +3,11 @@
 	<script src="bob.js"></script>
 	<script src="elisabeth.js"></script>
     <script src="robert.js"></script>
+<<<<<<< HEAD
     <script src="alan.js"></script>
+=======
     <script src="reem.js"></script>
+>>>>>>> b2f7a9fb92674dd3fd38075acc6b840a97d7359b
 	<title>Hello Team</title>
 </head>	
 <body>
